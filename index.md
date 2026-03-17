@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-architect
+theme: architect
 ---
 
 Hello welcome to my page
